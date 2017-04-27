@@ -1,0 +1,103 @@
+C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/main.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/main.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/testbranch.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/testbranch.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module testbranch
+
+Top level modules:
+	testbranch
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux5.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux5.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/registers.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/registers.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module registers
+
+Top level modules:
+	registers
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/add.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/add.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module add
+
+Top level modules:
+	add
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/instrMemory.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/instrMemory.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module instrMemory
+
+Top level modules:
+	instrMemory
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft226.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft226.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module shiftLeft226
+
+Top level modules:
+	shiftLeft226
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/branch.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/branch.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module branch
+
+Top level modules:
+	branch
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux32.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux32.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module mux32
+
+Top level modules:
+	mux32
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v {0 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module control
+** Error: C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v(77): Undefined variable: memtoReg.
+** Error: C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v(2): Identifier must be declared with a port mode: memtoReg.
+
+} {4.0 6.0} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/signExtend.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/signExtend.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module signExtend
+
+Top level modules:
+	signExtend
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALU.v {0 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALU.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module ALU
+** Error: C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALU.v(11): near "begin": syntax error, unexpected "begin"
+
+} {4.0 5.0} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft2.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft2.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module shiftLeft2
+
+Top level modules:
+	shiftLeft2
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/dataMemory.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/dataMemory.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module dataMemory
+
+Top level modules:
+	dataMemory
+
+} {} {}} C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/pc.v {1 {vlog -work work -nocovercells C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/pc.v
+Model Technology ModelSim ALTERA vlog 6.4a Compiler 2008.08 Oct 22 2008
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}}

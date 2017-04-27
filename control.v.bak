@@ -1,0 +1,77 @@
+`timescale 1ns / 1ps
+module control(in, reg2Loc, jump, memRead, output reg memToReg, ALUOp, memWrite, ALUSrc, regWrite, beq, bne);
+	input [10:0] in;
+	output reg reg2Loc, jump, memRead, memToReg, memWrite, ALUSrc, regWrite, beq, bne;
+	output reg [2:0] ALUOp;
+
+	always@(in) begin
+	case (in)
+			 11'b11111000010 : begin // Control bits for LDUR
+
+				 reg2Loc = 1'bx;
+				 memToReg = 1'b1;
+				 regWrite = 1'b1;
+				 memRead = 1'b1;
+				 memWrite = 1'b0;
+				 ALUSrc = 1'b1;
+				 ALUOp = 2'b00;
+			 end
+
+			 11'b11111000000 : begin //Control bits for STUR
+
+				 // Control Bits
+				 reg2Loc = 1'b1;
+				 memToReg = 1'bx;
+				 regWrite = 1'b0;
+				 memRead = 1'b0;
+				 memWrite = 1'b1;
+				 ALUSrc = 1'b1;
+				 ALUOp = 2'b00;
+			 end
+
+			 11'b10001011000 : begin //Control bits for ADD
+
+				 reg2Loc = 1'b0;
+				 memToReg = 1'b0;
+				 regWrite = 1'b1;
+				 memRead = 1'b0;
+				 memWrite = 1'b0;
+				 ALUSrc = 1'b0;
+				 ALUOp = 2'b10;
+			 end
+
+			 11'b11001011000 : begin //Control bits for SUB
+
+				 reg2Loc = 1'b0;
+				 memToReg = 1'b0;
+				 regWrite = 1'b1;
+				 memRead = 1'b0;
+				 memWrite = 1'b0;
+				 ALUSrc = 1'b0;
+				 ALUOp = 2'b10;
+			 end
+
+			 11'b10001010000 : begin //Control bits for AND
+
+				 reg2Loc = 1'b0;
+				 memToReg = 1'b0;
+				 regWrite = 1'b1;
+				 memRead = 1'b0;
+				 memWrite = 1'b0;
+				 ALUSrc = 1'b0;
+				 ALUOp = 2'b10;
+			 end
+
+			 11'b10101010000 : begin //Control bits for ORR
+
+				 reg2Loc = 1'b0;
+				 memToReg = 1'b0;
+				 regWrite = 1'b1;
+				 memRead = 1'b0;
+				 memWrite = 1'b0;
+				 ALUSrc = 1'b0;
+				 ALUOp = 2'b10;
+			 end
+		 endcase
+		end
+endmodule

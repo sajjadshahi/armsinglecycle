@@ -1,0 +1,236 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Sajjad\Downloads\Telegram Desktop\MIPS
+vadd
+IP0WZ`9N2Lh9FoBhQ<BlzS1
+VbiWimi1eg8POUWWOfP=7e3
+Z0 dC:\Users\Sajjad\Downloads\Compressed\CPU-verilog-master\CPU-verilog-master\single_cycle_cpu
+Z1 w1480137522
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/add.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/add.v
+L0 2
+Z2 OV;L;6.4a;39
+r1
+31
+Z3 o-work work -nocovercells -O0
+!s100 [16QkVVDX_DLSmEKnYine0
+!s85 0
+vALU
+Im[blDUPo=iC=_RA^4YE`V2
+VfONDUW44Vbk5b0BTe^8F73
+Z4 dC:\Users\Sajjad\Downloads\Compressed\CPU-verilog-master\CPU-verilog-master\single_cycle_cpu
+w1493152796
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALU.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALU.v
+L0 2
+R2
+r1
+31
+R3
+n@a@l@u
+!s100 QBM4An8HOVZzUKa@:D^O32
+!s85 0
+vALUcontrol
+I6lJH_Y>]XG=izeDJIg<e21
+VCZUa<K7zd3fXRimaDIACA2
+R4
+w1493152772
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALUcontrol.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/ALUcontrol.v
+L0 2
+R2
+r1
+31
+R3
+n@a@l@ucontrol
+!s100 Jm:E1O1OV[4B0Uco4^i_>3
+!s85 0
+vbranch
+I^1goQJ1^46gciUFHBghcZ3
+VBGlXm^hK8i`8^3VzOXNS80
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/branch.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/branch.v
+L0 2
+R2
+r1
+31
+R3
+!s100 8@Gk2K:kce[5nCJWcC[Kz3
+!s85 0
+vcontrol
+!s100 ZEJZE`95`Z5PjU=MK^C6A0
+I:<H>za;<9;]=fG4Ub4E1z3
+V7EU?ZGF^Y>gHGa]m;^Y=<1
+R4
+w1493152900
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/control.v
+L0 2
+R2
+r1
+!s85 0
+31
+R3
+vdataMemory
+Ifl;:XoF[0X_P94zRZdDJ82
+VKz1N90g<IO8[h3lV=Ch3;1
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/dataMemory.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/dataMemory.v
+L0 2
+R2
+r1
+31
+R3
+ndata@memory
+!s100 ki`5C^=PZJ>idC=ZVP<F20
+!s85 0
+vinstrMemory
+IOOcenACSlc0LK<gF[>o1n2
+VE@ZK=nV`ga1<6gBo`CTK91
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/instrMemory.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/instrMemory.v
+L0 2
+R2
+r1
+31
+R3
+ninstr@memory
+!s100 m3JaOe0YcjNC;2zci[]ZR1
+!s85 0
+vmain
+IIMA9>J4l:?QceIDKLalA>0
+Vz_;@ocWfRTnO]Ve3fRam80
+R4
+w1493150939
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/main.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/main.v
+L0 2
+R2
+r1
+31
+R3
+!s100 I@mYJ1j>5@;YUL2C4Ejj:2
+!s85 0
+vmux32
+I8gi8M<aG^mM7N=d?gHUK81
+Vi]Ao8[cCDD]PVLFNH^aTc0
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux32.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux32.v
+L0 2
+R2
+r1
+31
+R3
+!s100 V=7mUbPQ@<omXQc3[SKSM1
+!s85 0
+vmux5
+I@A`Tk8N7RcFhNd]1dm_X`3
+V4S37Jjb=nle5Z<`:a:b]j2
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux5.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/mux5.v
+L0 2
+R2
+r1
+31
+R3
+!s100 eg2]d_@6IPClgb=>5S;2Y3
+!s85 0
+vpc
+I=z37ED7amDn9<hO03Bbdh1
+V0G1Q4R<I;@V<7995hRgQT1
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/pc.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/pc.v
+L0 2
+R2
+r1
+31
+R3
+!s100 iaE9AG:o29l5z9WGCf8fa1
+!s85 0
+vregisters
+I9SZZ3z_2<2[:QRNgZBdE;0
+V^`gJd1jMKcZ8C[X:TN4Yc0
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/registers.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/registers.v
+L0 2
+R2
+r1
+31
+R3
+!s100 OaJc?UC3bf=h0b?OO6SL`1
+!s85 0
+vshiftLeft2
+IIUFb2>LNbd]JT7nnEjaIN0
+VZY:<ozGn=BhBNCEHU6d1K2
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft2.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft2.v
+L0 2
+R2
+r1
+31
+R3
+nshift@left2
+!s100 QAHi9b72RcYTii0gZjMnz0
+!s85 0
+vshiftLeft226
+ITGQ0KJc<[2QR9od:OGW;02
+VoePQo:Dk[]fakVPD`6j@E1
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft226.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/shiftLeft226.v
+L0 2
+R2
+r1
+31
+R3
+nshift@left226
+!s100 G=8dh=Hih=8`E52ekmRPD2
+!s85 0
+vsignExtend
+IW4dI4O<_2X:[2o@eD7O^I0
+VhFRzDbDj8_dFLz9>aR1o[2
+R4
+R1
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/signExtend.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/signExtend.v
+L0 2
+R2
+r1
+31
+R3
+nsign@extend
+!s100 U98>kCd>2_O1fORGAmgHI1
+!s85 0
+vtestbranch
+IdcUZW9TLAk]P?IlESY<N22
+Vk=[>fbaUgME>g_hOD>]lR3
+R4
+w1493147852
+8C:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/testbranch.v
+FC:/Users/Sajjad/Downloads/Compressed/CPU-verilog-master/CPU-verilog-master/single_cycle_cpu/testbranch.v
+L0 2
+R2
+r1
+31
+R3
+!s100 [gREz[0;LT^GoV6zd1VNb3
+!s85 0
